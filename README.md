@@ -1,5 +1,7 @@
 # Remix Indie Stack SaaS demo
 
+This was built during a livestream: https://youtu.be/5d80Q8r5-zE.
+
 Learn more about [Remix Stacks](https://remix.run/stacks).
 
 ## What's in the stack
